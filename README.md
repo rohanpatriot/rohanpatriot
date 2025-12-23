@@ -38,7 +38,7 @@ I'm Rohan - Welcome to my GitHub profile!
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanpatriot&theme=redical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanpatriot&theme=radical&hide_border=true)
 
 </div>
 
