@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-
-### 💻 Top Languages
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpatriot&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ### 📈 Contribution Graph
 
 <div align="center">
