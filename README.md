@@ -1,28 +1,5 @@
 ### Hi there 👋
 
-I'm Rohan - Welcome to my GitHub profile!
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanpatriot&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-</div>
-
----
-
-### 🔥 GitHub Streak
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohanpatriot&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ### 💻 Top Languages
 
@@ -54,8 +31,3 @@ I'm Rohan - Welcome to my GitHub profile!
 
 ---
 
-<div align="center">
-  
-⭐️ From [rohanpatriot](https://github.com/rohanpatriot)
-
-</div>
